@@ -1,2 +1,2 @@
 # Console_maze
-Maze game for Arduino Mega and Tft screen
+Maze game for Arduino Mega and Tft screen, using gyroscope and accelerometer for character movement
